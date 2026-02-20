@@ -17,18 +17,41 @@ Soy un tipo de gustos simples, me gustan los juegos indies, leer a [***Brandon S
 
 
 
-## 🛠️ Tecnologías Y Herramientas
+## Tecnologías Y Herramientas
 
 <div align="center">
 
-| Categoría | Tecnologías |
-|------------|------------|
-| 🎨 **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| ⚙️ **Backend** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) <br> ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) <br> ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <br> ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) |
-| 🗄️ **BBDD** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
-| 🧰 **Herramientas de Desarrollo** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) <br> ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white) <br> ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![GitKraken](https://img.shields.io/badge/GitKraken-1793FF?style=for-the-badge&logo=gitkraken&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| 🚀 **DevOps** | ![VirtualBox](https://img.shields.io/badge/VirtualBox-23457E?style=for-the-badge&logo=virtualbox&logoColor=white) |
+### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+### BBDD
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Herramientas de Desarrollo
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-1793FF?style=for-the-badge&logo=gitkraken&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### DevOps
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-23457E?style=for-the-badge&logo=virtualbox&logoColor=white)
 </div>
 
 ## Estadísticas
@@ -39,12 +62,17 @@ Soy un tipo de gustos simples, me gustan los juegos indies, leer a [***Brandon S
 
 ## 🧠 Desarrollando habilidades
 
-- Desarrollo en Backend con C# y Kotlin
-- Desarrollo en Frontend CSS3 y Html5
-- Gestión avanzada en BBDD con MariaDB y MongoDB
+<div aling="center">
 
+| Área | Habilidades |
+|:----:|------------|
+| ⚙️ Backend | Desarrollo en C# y Kotlin |
+| 🎨 Frontend | Desarrollo con HTML5 y CSS3 |
+| 🗄️ Bases de Datos | Gestión avanzada con MariaDB y MongoDB |
+</div>
 
 ***
+
 <div align="center">
 
 ![VisitasPerfil](https://komarev.com/ghpvc/?username=AdriKael&color=58A6FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
