@@ -62,7 +62,7 @@ Soy un tipo de gustos simples, me gustan los juegos indies, leer a [***Brandon S
 
 ## 🧠 Desarrollando habilidades
 
-<div aling="center">
+<div align="center">
 
 | Área | Habilidades |
 |:----:|------------|
