@@ -56,7 +56,10 @@ Soy un tipo de gustos simples, me gustan los juegos indies, leer a [***Brandon S
 
 ## Estadísticas
 
+<div align="center">
+  
 ![RachaDeCommits](https://github-readme-streak-stats.herokuapp.com/?user=AdriKael&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+</div>
 
 ![GraficoDeActividad](https://github-readme-activity-graph.vercel.app/graph?username=AdriKael&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
